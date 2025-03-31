@@ -6,7 +6,7 @@ import os
 import io
 
 
-class DataAnalysisLibrary:
+class DataAnalysis:
     def __init__(self, data=None):
         """
         Initialize the data analysis library with optional data.

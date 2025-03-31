@@ -1,7 +1,0 @@
-MANIFEST.in
-README.md
-setup.py
-DataAnalysisLibrary.egg-info/PKG-INFO
-DataAnalysisLibrary.egg-info/SOURCES.txt
-DataAnalysisLibrary.egg-info/dependency_links.txt
-DataAnalysisLibrary.egg-info/top_level.txt

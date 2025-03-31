@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="DataAnalysisLibrary",  # تأكد من أن الاسم صحيح
+    name="Data.Analysis",  # تأكد من أن الاسم صحيح
     version="1.0.0",  # تأكد من أن الإصدار صحيح
     author="Ahmed Eldesoky",
     author_email="your-email@example.com",
