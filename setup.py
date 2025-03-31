@@ -8,7 +8,7 @@ setup(
     description="A short description of your package",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",  # Optional: to specify markdown format
-    url="https://github.com/ahmed-eldesoky284/DataAnalysisLibrary",
+    url="https://github.com/ahmed-eldesoky284/DataAnalysis",
     packages=find_packages(),  # Automatically discovers packages
     classifiers=[
         "Programming Language :: Python :: 3",
